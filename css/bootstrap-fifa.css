@@ -1,0 +1,42 @@
+p.test {
+	font-weight: 2000;
+	background-color: yellow;
+	
+}
+
+
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../pictures/bg.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#parent {
+   display: table;
+   width: 100%;
+   margin: auto;
+}
+
+#forminput{
+	margin: auto;
+	display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   
+	
+}
+
+form.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+        
